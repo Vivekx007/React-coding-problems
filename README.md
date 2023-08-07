@@ -1,5 +1,5 @@
 # React-coding-problem
-## Create a functional component that displays data from https://reqres.in/api/users?
+## Q. Create a functional component that displays data from https://reqres.in/api/users?
 
 ```js
 import React, { useState, useEffect } from "react";
