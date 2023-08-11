@@ -44,7 +44,7 @@ export default DataApi;
 
 ## Q2. Write a program to display searched keyword in React?
 
-```React
+```Js
 import React, { useState } from "react";
 const SearchedKey = () => {
   const [search, setSearch] = useState("");
